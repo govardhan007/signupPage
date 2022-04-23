@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>134840695168-nhrh23m23q181u8ntubus94ka3q0l5km.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.134840695168-nhrh23m23q181u8ntubus94ka3q0l5km</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsSnJyrXnDcn1-VpA3c--GrsMXtXo1hA8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>134840695168</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.govardhan.digumurthi.signupPage</string>
+	<key>PROJECT_ID</key>
+	<string>govardhanauth</string>
+	<key>STORAGE_BUCKET</key>
+	<string>govardhanauth.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:134840695168:ios:fa3460115fcc994c346965</string>
+</dict>
+</plist>
